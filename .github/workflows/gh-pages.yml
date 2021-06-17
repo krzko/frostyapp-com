@@ -16,7 +16,7 @@ jobs:
       - name: Update Theme
         run: |
           cd frostyapp/themes/PaperMod
-          gut pull
+          git pull
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
