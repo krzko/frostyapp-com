@@ -50,7 +50,7 @@ params:
 
     label:
         text: "Frosty"
-        icon: /apple-icon-57x57.png
+        icon: /frostyapp-com/apple-icon-57x57.png
         iconHeight: 35
 
     # profile-mode
